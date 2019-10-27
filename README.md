@@ -10,7 +10,6 @@ To get the dataset that I looked at, do
 ```
 $ git clone https://github.com/AlexDikelsky/regular-expression-tests
 $ cd regular-expression-tests/clearer_algorithm
-$ chmod 755 generator.py grep.sh runall.sh
 $ ./runall.sh
 ```
 
